@@ -2,9 +2,9 @@ variable "region" {
   default = "us-east-1"
 }
 
-variable "cidrs" {
+/*variable "cidrs" {
     type = list
-}
+}*/
 
 variable "amis" {
     type = "map"
