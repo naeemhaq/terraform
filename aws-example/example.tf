@@ -1,3 +1,4 @@
+# adding a comment to run apply from terraform cloud
 provider "aws" {
     profile = "naeem"
     region = var.region
